@@ -6,4 +6,7 @@ FPK is an open-source library for Unity developers creating first-person games. 
 
 Currently, the library is under development...
 
-![Typing Gif](https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif" alt="Typing Gif" height="200"/>
+</p>
+
